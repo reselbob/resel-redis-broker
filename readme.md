@@ -5,7 +5,7 @@ This is a wrapper package for `redis`. It exposes two classes, `Publisher` and `
 **The project requires** that the following environment variables exist in the process that is
 running the classes;
 
-`REDIS_HOST` is is the DNS or IP address of the `redis` host. This could be a local DNS entry or
+`REDIS_HOST` is the DNS or IP address of the `redis` host. This could be a local DNS entry or
 one provided the a `redis` service provider.
 
 `REDIS_PORT` the port where `redis` is listening. Defaults to port `6379`.
