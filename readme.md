@@ -24,7 +24,7 @@ one provided the a `redis` service provider.
 
 WHERE
 
-`channel` is the channel on `redis` to where messages wil be published.
+`channel` is the channel on `redis` to where messages will be published.
 
 ### Properties
 
